@@ -1,1 +1,3 @@
-# todo_riverpod
+# todo_app
+
+A new Flutter project.
