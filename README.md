@@ -34,10 +34,3 @@ https://github.com/user-attachments/assets/19605808-a398-4190-b366-76a754b6b5bf
 3. Install dependencies
 4. Run the app
 
-## Dependencies
-
-dependencies:
-  flutter:
-    sdk: flutter
-  flutter_riverpod: ^2.6.1
-  intl: ^0.20.1
