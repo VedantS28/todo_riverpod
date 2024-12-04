@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/b1fe37a6-8b40-4662-92e6-de05a5d438df
 # ToDo App with Riverpod
 
 A simple and intuitive ToDo application built with **Flutter** and **Riverpod** as the state management solution. The app allows users to manage tasks efficiently by adding priorities, setting deadlines, and organizing completed tasks.
