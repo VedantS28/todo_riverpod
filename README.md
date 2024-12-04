@@ -18,7 +18,6 @@ A simple and intuitive ToDo application built with **Flutter** and **Riverpod** 
 ## Demo
 
 Here's a quick demo of the app in action:  
-[![Watch the video]
 
 https://github.com/user-attachments/assets/19605808-a398-4190-b366-76a754b6b5bf
 
